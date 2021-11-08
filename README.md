@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fordmikew
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Cyber Security
+- 💞️ I’m looking to collaborate on Cyber Security
 - 📫 How to reach me michael.ford@my.scitexas.edu
 
 <!---
